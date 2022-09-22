@@ -1,0 +1,19 @@
+.container {
+  background: grey;
+  padding-inline: 20rem;
+  min-height: 100vh;
+}
+.form-control {
+  margin-block: 1rem;
+}
+.form-container {
+  margin-top: 3rem;
+  background: white;
+}
+.input-element {
+  width: 100%;
+}
+.submit {
+  border: none;
+  background: green;
+}
